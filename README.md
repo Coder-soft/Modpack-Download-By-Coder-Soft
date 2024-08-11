@@ -1,6 +1,6 @@
 
 # Editing , Compiling and Distributing
-*Keep In Mind that you Have to Give Credits In Order To Distribute your Modified Coder*
+*Keep In Mind that you Have to Give Credits In Order To Distribute your Modified Code*
 
 ## Editing
 **Note** *this code was written in python using tkinter lib and many other make sure to download them after downloading the source*
