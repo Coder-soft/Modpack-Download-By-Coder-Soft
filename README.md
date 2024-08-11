@@ -48,3 +48,8 @@ Click On Additional Files and click on Add Files and locate the required file
 
 Everything Is Ready to Go Just Click On Convet .PY to .EXE button and wait for it to setup then kaboom done now Enjoy!
 
+## Links
+
+ - [Downloading Auto py to exe & some basics ](https://pypi.org/project/auto-py-to-exe/)
+ - [Favicon Gernator](https://realfavicongenerator.net)
+
