@@ -1,4 +1,7 @@
 
+
+[![image.png](https://i.postimg.cc/85GcdTPm/image.png)](https://postimg.cc/7CBqw8z5)
+
 # Editing , Compiling and Distributing
 *Keep In Mind that you Have to Give Credits In Order To Distribute your Modified Coder*
 
@@ -23,7 +26,7 @@ You Can use auto-py-to-exe to compile the project
  
 3. Locate your Python File
 
- [![image.png](https://i.postimg.cc/g2DXjF2X/image.png)](https://postimg.cc/ZWWKsQ34)
+[![image.png](https://i.postimg.cc/g2DXjF2X/image.png)](https://postimg.cc/ZWWKsQ34)
 
 After locating the file select wheter you want it to be single exe file or a whole directory i recommend that you select one file after selecting it you also wanted to chose window based (hides console)
 
@@ -48,5 +51,31 @@ Click On Additional Files and click on Add Files and locate the required file
 [![image.png](https://i.postimg.cc/MZdF7X3d/image.png)](https://postimg.cc/kDRs9Mmb)
 
 Everything Is Ready to Go Just Click On Convet .PY to .EXE button and wait for it to setup then kaboom done now Enjoy!
+
+## Distributing
+
+You Are Allowed To Distribute This Project As Long as You Have Gaved Me the Credit. If your Modpack is for A Server and you are using this code for that reason you have to follow certain criteria
+
+```
+1. Make an announcement full clear that you used my code 
+2. Not allowed to claim the code is yours
+3. There Need to be a text Giving Me The Credit With The Name youwasted
+4.Contact Me Before Giving Any announcement or using the code.
+
+```
+These strictions are because to spread awarness and stop snatchers from claiming the coder as theirs own 
+### Handles
+
+```
+Modrinth @Coder-Soft
+Github @Coder-Soft
+Discord youwasted
+
+```
+
+## Links
+
+ - [Downloading Auto py to exe & some basics ](https://pypi.org/project/auto-py-to-exe/)
+ - [Favicon Gernator](https://realfavicongenerator.net)
 
 
