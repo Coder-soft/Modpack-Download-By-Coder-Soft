@@ -1,6 +1,6 @@
 
 # Editing , Compiling and Distributing
-*Keep In Mind that you Have to Give Credits In Order To Distribute your Modified Code*
+*Keep In Mind that you Have to Give Credits In Order To Distribute your Modified Coder*
 
 ## Editing
 **Note** *this code was written in python using tkinter lib and many other make sure to download them after downloading the source*
@@ -22,7 +22,7 @@ You Can use auto-py-to-exe to compile the project
  2. Run A-P-T-E using `python -m auto_py_to_exe` or `auto_py_to_exe`
  
 3. Locate your Python File
-[![image.png](https://i.postimg.cc/g2DXjF2X/image.png)](https://postimg.cc/ZWWKsQ34)
+ [![image.png](https://i.postimg.cc/g2DXjF2X/image.png)](https://postimg.cc/ZWWKsQ34)
 
 After locating the file select wheter you want it to be single exe file or a whole directory i recommend that you select one file after selecting it you also wanted to chose window based (hides console)
 
@@ -48,8 +48,4 @@ Click On Additional Files and click on Add Files and locate the required file
 
 Everything Is Ready to Go Just Click On Convet .PY to .EXE button and wait for it to setup then kaboom done now Enjoy!
 
-## Links
-
- - [Downloading Auto py to exe & some basics ](https://pypi.org/project/auto-py-to-exe/)
- - [Favicon Gernator](https://realfavicongenerator.net)
 
