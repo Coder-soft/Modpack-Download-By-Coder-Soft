@@ -22,6 +22,7 @@ You Can use auto-py-to-exe to compile the project
  2. Run A-P-T-E using `python -m auto_py_to_exe` or `auto_py_to_exe`
  
 3. Locate your Python File
+
  [![image.png](https://i.postimg.cc/g2DXjF2X/image.png)](https://postimg.cc/ZWWKsQ34)
 
 After locating the file select wheter you want it to be single exe file or a whole directory i recommend that you select one file after selecting it you also wanted to chose window based (hides console)
